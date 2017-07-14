@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "EatEatKabum.data.unityweb",
+"asmCodeUrl": "EatEatKabum.asm.code.unityweb",
+"asmMemoryUrl": "EatEatKabum.asm.memory.unityweb",
+"asmFrameworkUrl": "EatEatKabum.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
